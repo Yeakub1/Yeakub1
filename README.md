@@ -4,7 +4,9 @@
 
 
 ## Skills & Experiance:
-1️⃣ HTML5 / CSS3 / BOOTSRAP5 <br>
+1️⃣ HTML5 / CSS3 <br>
+
+&#10003; CSS Framework-  Bootstrap / Telwind </br>
 
 2️⃣ jQuery / JavaScript
 
