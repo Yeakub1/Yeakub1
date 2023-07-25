@@ -8,11 +8,14 @@
 
 
 ## Skills & Experiance:
-1️⃣ HTML5 / CSS3 <br>
+1️⃣HTML5 / CSS3 <br>
 
-&#10003; CSS Framework-  Bootstrap / Telwind </br>
+2️⃣ Bootstrap / Telwind
 
-2️⃣  JavaScript / Es6
+3️⃣ JavaScript / Es6
 
-3️⃣ React / Next.js
+4️⃣ React / Next.js
 
+5️⃣ node js / express js
+
+6️⃣ MongoDB 
