@@ -24,7 +24,9 @@
 
 
 
+<img src="https://raw.githubusercontent.com/yeakub1/yeakub1/output/snake.svg" alt="Snake animation" />
 
+###
 
 
 
