@@ -3,8 +3,8 @@
 <br/><br/><br/><br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,vite,vue,mui,vscode,figma,git,github" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,mongodb,nextjs,redux,firebase,vercel,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,vite,nextjs,redux,vscode,figma,git,github" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,mongodb,mui,firebase,vercel,docker" /><br>
 </div>
 
 <br/><br/>
