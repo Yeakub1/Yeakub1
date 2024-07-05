@@ -1,3 +1,4 @@
+![Cover Image](https://i.ibb.co/RDGWTxB/cover.jpg)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Yeakub1.Yeakub1" />
 
 <h1 align="center">
@@ -13,7 +14,7 @@
 
 <br/>
  
- 🔭 I’m currently working on **Front End Developer**
+ 🔭 I’m currently working on **Full Stack Developer**
  
  🌱 I’m currently learning **TypeScript, Redux, React Native Expo**
 
@@ -50,7 +51,7 @@
 <br>
 <div align=center>
  <img width=347 src="https://github-readme-stats.vercel.app/api/top-langs?username=yeakub1&show_icons=true&locale=en&layout=compact" alt="yeakub1" />
-<img width=455 src="https://github-readme-stats.vercel.app/api?username=yeakub1&show_icons=true&locale=en" alt="yeakub1" />    
+<a href="https://github.com/yeakub1"><img alt=yeakub Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=yeakub1&show_icons=true&count_private=true&title_color=fffff"/></a>
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeakub1&show_icons=true&locale=en&layout=compact_border=true" />
 </div>
