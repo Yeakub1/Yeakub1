@@ -1,4 +1,4 @@
-![Cover Image](https://i.ibb.co/RDGWTxB/cover.jpg)
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Yeakub1.Yeakub1" />
 
 <h1 align="center">
